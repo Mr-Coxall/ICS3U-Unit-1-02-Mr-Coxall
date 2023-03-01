@@ -19,7 +19,7 @@ Show
 
 Set TypingSpeed 75ms
 Sleep 1s
-Type "Clear your terminal first  ....  if you have any leftover commands from before."
+Type "Clear your terminal first .... if you have any leftover commands from before."
 Sleep 2s
 Set TypingSpeed 5ms
 Backspace 81
