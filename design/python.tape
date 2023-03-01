@@ -46,7 +46,7 @@ Sleep 750ms
 Enter
 Sleep 750ms
 
-Type "git commit -m 'added Hello, World! python program'"
+Type 'git commit -m "added Hello, World! python program'"
 Sleep 750ms
 Enter
 Sleep 750ms
