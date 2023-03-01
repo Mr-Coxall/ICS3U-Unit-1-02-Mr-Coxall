@@ -19,7 +19,7 @@ Show
 
 Set TypingSpeed 75ms
 Sleep 1s
-Type "Clear your terminal first  .....  if you have any left over commands from before."
+Type "Clear your terminal first .... if you have any leftover commands from before."
 Sleep 2s
 Set TypingSpeed 5ms
 Backspace 81
@@ -31,17 +31,27 @@ Sleep 750ms
 Enter
 Sleep 750ms
 
-Type "ll"
+Type "ls"
 Sleep 750ms
 Enter
 Sleep 750ms
 
-Type "gcc ./Address.c -o ./Address.app"
+Type "python ./school.py"
 Sleep 750ms
 Enter
 Sleep 750ms
 
-Type "./Address.app"
+Type "git add -A"
+Sleep 750ms
+Enter
+Sleep 750ms
+
+Type 'git commit -m "added school program in python"'
+Sleep 750ms
+Enter
+Sleep 750ms
+
+Type "git push origin main"
 Sleep 750ms
 Enter
 Sleep 750ms
